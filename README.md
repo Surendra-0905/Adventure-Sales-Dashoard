@@ -1,6 +1,6 @@
 Project Goal
 
-The goal of this project was to design an end-to-end Sales Analytics Dashboard using Power BI on the Adventure Works dataset. The dashboard provides actionable insights into sales, 
+The goal of this project was to design an end-to-end Sales Analytics Dashboard using Power BI on the Market Sales dataset. The dashboard provides actionable insights into sales, 
 revenue, profit, returns, and customer behavior to support data-driven decision-making.
 Key Features
 
